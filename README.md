@@ -47,9 +47,6 @@ Un contenedor MySQL
 
 Un Adminer (interfaz web para administrar la base de datos) accesible en:
 
-arduino
-Copiar
-Editar
 http://localhost:8080
 Credenciales por defecto:
 
@@ -62,16 +59,12 @@ Base de datos	tienda
 2. Instalar las dependencias del proyecto
 Ejecuta el siguiente comando en la raíz del proyecto:
 
-bash
-Copiar
-Editar
+
 npm install
 3. Ejecutar el servidor NestJS en desarrollo
 Levanta el servidor ejecutando:
 
-bash
-Copiar
-Editar
+
 npm run start:dev
 La API estará disponible en:
 http://localhost:3000
