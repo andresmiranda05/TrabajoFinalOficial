@@ -37,9 +37,6 @@ Instalación y ejecución
 1. Levantar la base de datos con Docker (opcional)
 En la raíz del proyecto ejecuta:
 
-bash
-Copiar
-Editar
 docker-compose up -d
 Esto levantará:
 
